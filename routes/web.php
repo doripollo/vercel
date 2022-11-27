@@ -17,4 +17,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/carrusel', 'App\Http\Controllers\CategoriaController@menu');
+Route::get('/carrusel', 'App\Http\Controllers\CategoriaController@menu')->name('carrusel');
+
+Route::get('/ventana', function () {
+    return view('ventana');
+});
