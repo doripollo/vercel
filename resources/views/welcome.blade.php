@@ -24,6 +24,9 @@
             <div>
                 <a href="{{route('carrusel')}}">carrusel</a>
             </div>
+            <div>
+                <img src="{{ asset('imagenes/Group 33.png') }}" width="50" height="80" alt="logoProductmarket">
+            </div>
 
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
             @if (Route::has('login'))
