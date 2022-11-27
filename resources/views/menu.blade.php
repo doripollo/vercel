@@ -13,8 +13,8 @@
     {{-- <link rel="stylesheet" href="{{ asset('slider/css/styleslider.css') }}">
 
     <link rel="stylesheet" href="{{ asset('slider/css/swiper-bundle.min.css') }}"> --}}
-    <link rel="stylesheet" href="/resources/sliderre/css/styleslider.css C:\xampp\htdocs\vercel\resources">
-    <link rel="stylesheet" href="/resources/sliderre/css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="styleslider.css">
+    <link rel="stylesheet" href="{{ asset('') }}">
 
 </head>
 
