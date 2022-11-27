@@ -10,11 +10,11 @@
 
     <!-- Swiper CSS -->
     {{-- <link rel="stylesheet" href="css/swiper-bundle.min.css"> --}}
-    <link rel="stylesheet" href="{{ asset('slider/css/styleslider.css') }}">
+    {{-- <link rel="stylesheet" href="{{ asset('slider/css/styleslider.css') }}">
 
-    <!-- CSS -->
-    {{-- <link rel="stylesheet" href="css/style.css"> --}}
-    <link rel="stylesheet" href="{{ asset('slider/css/swiper-bundle.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('slider/css/swiper-bundle.min.css') }}"> --}}
+    <link rel="stylesheet" href="/resources/sliderre/css/styleslider.css C:\xampp\htdocs\vercel\resources">
+    <link rel="stylesheet" href="/resources/sliderre/css/swiper-bundle.min.css">
 
 </head>
 
@@ -59,11 +59,9 @@
 
 <!-- Swiper JS -->
 {{-- <script src="js/swiper-bundle.min.js"></script> --}}
-<script src="{{ asset('slider/js/swiper-bundle.min.js') }}"></script>
+{{-- <script src="{{ asset('slider/js/swiper-bundle.min.js') }}"></script>
 
 
-<!-- JavaScript -->
-{{-- <script src="js/script.js"></script> --}}
-<script src="{{ asset('slider/js/script.js') }}"></script>
+<script src="{{ asset('slider/js/script.js') }}"></script> --}}
 
 </html>
