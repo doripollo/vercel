@@ -10,9 +10,9 @@
 
     <!-- Swiper CSS -->
     {{-- <link rel="stylesheet" href="css/swiper-bundle.min.css"> --}}
-    <link rel="stylesheet" href="{{ asset('slider/css/styleslider.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/styleslider.css') }}">
 
-    <link rel="stylesheet" href="{{ asset('slider/css/swiper-bundle.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/swiper-bundle.min.css') }}">
 
 </head>
 
@@ -57,9 +57,9 @@
 
 <!-- Swiper JS -->
 {{-- <script src="js/swiper-bundle.min.js"></script> --}}
-<script src="{{ asset('slider/js/swiper-bundle.min.js') }}"></script>
+<script src="{{ asset('js/swiper-bundle.min.js') }}"></script>
 
 
-<script src="{{ asset('slider/js/script.js') }}"></script>
+<script src="{{ asset('js/script.js') }}"></script>
 
 </html>
